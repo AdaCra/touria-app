@@ -18,7 +18,7 @@ In this project you will build a Tourio App, the best friend of all travelers: i
 
 ### Update Entry
 
-- In `pages/places/[id]/edit.js`, write the `editPlace` function to start a `PATCH` request.
+- In [`pages/places/id/edit.js`](pages/places/id/edit.js), write the `editPlace` function to start a `PATCH` request.
 - Write the `PATCH` API route in `pages/api/[id]/index.js`
 
 ### Delete Entry
